@@ -47,9 +47,9 @@
 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amitiscoder&show_icons=true&locale=en" alt="amitiscoder" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=amitiscoder&show_icons=true&locale=en" alt="amitiscoder"  /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitiscoder&show_icons=true&locale=en&layout=compact" alt="amitiscoder" width="320" height="150"/></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitiscoder&show_icons=true&locale=en&layout=compact" alt="amitiscoder" /></p>
 
 
 
