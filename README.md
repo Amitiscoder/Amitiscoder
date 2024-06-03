@@ -5,8 +5,6 @@
 
 - 👨‍💻 I’m **Full Stack Developer**
 
-- 👨‍💻 I’m currently learning **Back end**
-
 - 👨‍💻 I’m **Problem solver ans coder**
 
 - 💬 Ask me about **C++, C, Html, Css, Javascript, React, Node.js, Dsa**
